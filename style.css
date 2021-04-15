@@ -8,7 +8,7 @@
 
 body{
     height: 100vh;
-    background: url(noite.jpg) no-repeat center;
+    background: url(img/noite.jpg) no-repeat center;
     background-size: cover;
     display: flex;
     align-items: center;
